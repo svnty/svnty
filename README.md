@@ -8,4 +8,4 @@ I'm an amateur hacker, I hold the equivalent of a Diploma in Information Technol
 
 ![Hack The Box](https://www.hackthebox.eu/badge/image/274312)
 
-Feel free to add me on LinkedIn, you can message me on there. 
+_Feel free to add me on LinkedIn, you can message me on there._
