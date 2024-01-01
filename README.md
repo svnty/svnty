@@ -1,6 +1,6 @@
 **Hey, I'm Jake.**
 
-I'm doing a Bachelor of Engineering (Honours) in Biomedical Engineering and a Bachelor of Medical Science.
+I'm an undergraduate studying a Bachelor of Engineering (Honours) in Biomedical Engineering and a Bachelor of Medical Science.
 
 In my spare time I'm developing open source medicine focused applications.
 
