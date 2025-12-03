@@ -2,7 +2,7 @@
 
 ### Biotech Engineer & Creative Developer
 
-I am a multidisciplinary engineer operating at the intersection of biological systems and digital technology. My work focuses on leveraging software engineering principles to solve complex problems in synthetic biology and healthcare.
+I am a multidisciplinary engineer operating at the intersection of biological systems and digital technology. My work focuses on leveraging software engineering principles to solve complex problems in synthetic biology, healthcare and psychology.
 
 I'm an undergraduate studying a **Bachelor of Biomedical Engineering (Honours)** and a **Bachelor of Medical Science** at the University of Technology Sydney.
 
