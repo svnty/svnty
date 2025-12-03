@@ -28,7 +28,7 @@ In my spare time, I develop open-source medicine-focused applications and explor
 
 ### 📜 Certifications
 *   **Associate Member**, Engineers Australia
-*   **Machine Learning & AI Foundations**, LinkedIn / KNIME
+*   **Machine Learning & AI Foundations**
 *   **CompTIA A+**, Physical Networking
 
 ---
