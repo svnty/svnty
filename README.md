@@ -30,11 +30,3 @@ In my spare time, I develop open-source medicine-focused applications and explor
 *   **Associate Member**, Engineers Australia
 *   **Machine Learning & AI Foundations**
 *   **CompTIA A+**, Physical Networking
-
----
-
-### 🔗 Connect
-
-*   [**Portfolio Website**](https://svnty.is-a.dev)
-*   [**LinkedIn**](https://linkedin.com/in/jake-walklate)
-*   [**Email Me**](mailto:jake@svnty.is-a.dev)
