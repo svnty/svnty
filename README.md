@@ -1,6 +1,6 @@
 # Hey, I'm Jake.
 
-### Biotech Engineer & Creative Developer
+### Biotech & Software Developer
 
 I am a multidisciplinary engineer operating at the intersection of biological systems and digital technology. My work focuses on leveraging software engineering principles to solve complex problems in synthetic biology, healthcare and psychology.
 
