@@ -21,5 +21,5 @@ In my spare time, I develop open-source medicine-focused applications and explor
 **Software & AI**
 *   Full Stack & Mobile (Flutter, Next.js, TypeScript)
 *   Machine Learning (KNIME, Python)
-*   Cloud (AWS, Azure, GCP)
+*   Cloud (Vercel, Azure, GCP)
 *   Object Oriented Programming & Systems Architecture (Rust, C#, & Java Programming)
