@@ -23,10 +23,3 @@ In my spare time, I develop open-source medicine-focused applications and explor
 *   Machine Learning (KNIME, Python)
 *   Cloud (AWS, Azure, GCP)
 *   Object Oriented Programming & Systems Architecture (Rust, C#, & Java Programming)
-
----
-
-### 📜 Certifications
-*   **Associate Member**, Engineers Australia
-*   **Machine Learning & AI Foundations**
-*   **CompTIA A+**, Physical Networking
