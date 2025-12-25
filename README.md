@@ -10,7 +10,7 @@ In my spare time, I develop open-source medicine-focused applications and explor
 
 ---
 
-### 🛠 Skills & Expertise
+### Skills & Expertise
 
 **Biotech & Engineering**
 *   Synthetic Biology & Genetics
