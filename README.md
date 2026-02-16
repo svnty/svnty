@@ -16,10 +16,10 @@ In my spare time, I develop open-source medicine-focused applications and explor
 *   Synthetic Biology & Genetics
 *   Pharmacology & Microbiology
 *   Lab Automation & Robotics
-*   Mechatronics Systems
+*   Mechatronics Systems (MCU + FPGA)
 
 **Software & AI**
-*   Full Stack & Mobile (Flutter, Next.js, TypeScript)
-*   Machine Learning (KNIME, Python)
+*   Full Stack & Mobile (Flutter, Next.js, Rust)
+*   Machine Learning (KNIME, Python, Neural Nets)
 *   Cloud (Vercel, Azure, GCP)
-*   Object Oriented Programming & Systems Architecture (Rust, C#, & Java Programming)
+*   Object Oriented Programming & Systems Architecture (C#, & Java Programming)
