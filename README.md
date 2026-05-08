@@ -4,7 +4,7 @@
 
 I am a multidisciplinary engineer operating at the intersection of biological systems and digital technology. My work focuses on leveraging software engineering principles to solve complex problems in synthetic biology, healthcare and psychology.
 
-I'm an undergraduate studying a **Bachelor of Biomedical Engineering (Honours)** and a **Bachelor of Medical Science** at the University of Technology Sydney.
+I'm an undergraduate studying a **Bachelor of Engineering (Honours)** and a **Bachelor of Medical Science** at the University of Technology Sydney.
 
 In my spare time, I develop open-source medicine-focused applications and explore the creative possibilities of code.
 
