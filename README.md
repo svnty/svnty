@@ -2,7 +2,7 @@
 
 ### Biotech & Software Developer
 
-I am a multidisciplinary engineer operating at the intersection of biological systems and digital technology. My work focuses on leveraging software engineering principles to solve choke points in tech adoption.
+I am a multidisciplinary engineer operating at the intersection of biological systems and digital technology.
 
 I'm an undergraduate studying a **Bachelor of Engineering (Honours)** and a **Bachelor of Medical Science** at the University of Technology Sydney.
 
