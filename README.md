@@ -1,6 +1,6 @@
 # Hey, I'm Jake.
 
-### Biotech & Software Developer
+### Life-Technology Specialist
 
 I am a multidisciplinary engineer operating at the intersection of biological systems and digital technology.
 
