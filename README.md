@@ -1,4 +1,4 @@
-# Hey, I'm Jake.
+# Hey, I'm Jake. We're friends now.
 
 ### Life-Technology Specialist
 
