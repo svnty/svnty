@@ -1,6 +1,6 @@
 # Hey, I'm Jake. We're friends now.
 
-### Life-Technology Specialist
+### > Life-Technology Specialist
 
 I am a multidisciplinary engineer operating at the intersection of biological systems and digital technology.
 
