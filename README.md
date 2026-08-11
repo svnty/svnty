@@ -1,7 +1,5 @@
 # Hey, I'm Jake and we're friends now.
 
-### -> Life-Technology Specialist
-
 I am a multidisciplinary engineer operating at the intersection of biological systems and digital technology.
 
 I'm an undergraduate studying a **Bachelor of Engineering (Honours)** and a **Bachelor of Medical Science** at the University of Technology Sydney.
