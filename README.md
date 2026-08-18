@@ -1,4 +1,4 @@
-# Hey, I'm Jake and we're friends now.
+# Hey, I'm Jake.
 
 I am a multidisciplinary engineer operating at the intersection of biological systems and digital technology.
 
