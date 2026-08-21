@@ -1,18 +1,15 @@
 # Hey, I'm Jake.
 
-I am a multidisciplinary engineer operating at the intersection of biological systems and digital technology.
+I am a multidisciplinary engineer.
 
 I'm an undergraduate studying a **Bachelor of Engineering (Honours)** and a **Bachelor of Medical Science** at the University of Technology Sydney.
-
-In my spare time, I develop open-source medicine-focused applications and explore the creative possibilities of code.
 
 ---
 
 ### Skills & Expertise
 
 **Biotech & Engineering**
-*   Synthetic Biology & Genetics
-*   Pharmacology & Microbiology
+*   Biology & Genetics
 *   Lab Automation & Robotics
 *   Mechatronics Systems (MCU + FPGA)
 
