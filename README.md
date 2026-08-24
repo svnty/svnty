@@ -6,8 +6,6 @@ I'm an undergraduate studying a **Bachelor of Engineering (Honours)** and a **Ba
 
 ---
 
-### Skills & Expertise
-
 **Biotech & Engineering**
 *   Biology & Genetics
 *   Lab Automation & Robotics
